@@ -1,6 +1,6 @@
-@rinhaDeDev_HostAddress = http://localhost:5109
+@RinhaDeDev_HostAddress = http://localhost:5109
 
-GET {{rinhaDeDev_HostAddress}}/weatherforecast/
+GET {{RinhaDeDev_HostAddress}}/Healthcheck/
 Accept: application/json
 
 ###
