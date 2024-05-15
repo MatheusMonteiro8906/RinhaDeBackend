@@ -1,7 +1,7 @@
-using RinhaDeDev.Models;
+using RinhaDeBackend.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace RinhaDeDev.Controllers;
+namespace RinhaDeBackend.Controllers;
 
 [ApiController]
 [Route("[controller]")]

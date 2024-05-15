@@ -1,0 +1,6 @@
+@RinhaDeBackend_HostAddress = http://localhost:5109
+
+GET {{RinhaDeBackend_HostAddress}}/Healthcheck/
+Accept: application/json
+
+###
